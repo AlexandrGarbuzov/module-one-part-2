@@ -1,0 +1,175 @@
+body {
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  width: 100%;
+  background-color: #f5f5f5;
+}
+
+.big_container {
+  max-width: 1400px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+
+.container {
+  max-width: 1150px;
+  margin-left: 125px;
+  margin-right: 125px;
+  background-color: #ffffff;
+}
+
+.core {
+  width: 956px;
+  height: 120px;
+  font-size: 60px;
+  line-height: 60px;
+  letter-spacing: -0.03em;
+  margin-bottom: 30px;
+}
+
+.discription {
+  position: relative;
+  height: 500px;
+  background-image: url(../resourses/main_picture.png);
+}
+
+.discription p {
+  position: absolute;
+  left: 40px;
+  bottom: 40px;
+  width: 430px;
+  color: white;
+  font-size: 20px;
+  line-height: 27.32px;
+  letter-spacing: -0.03em;
+}
+
+.chapter {
+  width: 51px;
+  height: 25px;
+  margin-top: 150px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: -0.03em;
+}
+
+.chapter {
+  margin-right: 224px;
+}
+
+.chapter__one {
+  width: 1048px;
+  font-size: 45px;
+  line-height: 61.47px;
+  letter-spacing: -0.03em;
+  margin-bottom: 30px;
+}
+
+.enter__service {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  padding: 20px 40px;
+  margin-bottom: 150px;
+  width: 255px;
+  height: 67px;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: -0.03em;
+  background-color: #ad1818;
+  color: #ffffff;
+}
+
+.project {
+  margin-bottom: 30px;
+}
+
+.services__start {
+  width: 66px;
+  height: 25px;
+  margin-left: 127px;
+  margin-bottom: 34px;
+  font-size: 18px;
+  line-height: 24.59px;
+  letter-spacing: -0.03em;
+}
+
+.card {
+  margin-bottom: 90px;
+  box-sizing: border-box;
+}
+.inscription h4 {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-top: 15;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+
+.details a {
+  display: block;
+  letter-spacing: -0.03em;
+  color: #ad1818;
+  font-size: 20px;
+  text-decoration: none;
+  margin-bottom: 90px;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid #ad1818;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 150px;
+  padding: 56px;
+  height: 153px;
+  font-size: 30px;
+  line-height: 41px;
+  text-align: center;
+  letter-spacing: -0.03em;
+  color: #ad1818;
+  transition-duration: 0.8s;
+}
+
+.btn:hover {
+  background-color: #ad1818;
+  color: #ffffff;
+  transition-duration: 0.8s;
+}
+
+.btn a:hover {
+  color: #ffffff;
+}
+
+.dark__places {
+  background-color: #121212;
+}
+
+.dark__places h3 {
+  background-color: #121212;
+  color: #ffffff;
+  margin-bottom: 34px;
+  padding-top: 151px;
+}
+
+.title {
+  margin-top: 15px;
+  width: 661px;
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  color: #ffffff;
+  margin-bottom: 60px;
+}
+
+.services__card {
+  margin-left: 125px;
+}
+.services__card:nth-last-child(1) {
+  padding-bottom: 150px;
+}
